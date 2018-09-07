@@ -1,2 +1,2 @@
 # py_0net
-python project for test the network host and more technologies
+With this project we try to use pattern design in python.
